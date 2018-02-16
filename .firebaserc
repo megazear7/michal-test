@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "staging": "michal-test-e379b"
+  }
+}
